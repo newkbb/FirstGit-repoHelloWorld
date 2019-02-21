@@ -1,4 +1,7 @@
-```flutter
+根据Flutter中文网的提示，编写了第一个Flutter的HelloWorld的app。
+
+
+```
 import 'package:flutter/material.dart';
 
 void main() => runApp(new MyApp());
